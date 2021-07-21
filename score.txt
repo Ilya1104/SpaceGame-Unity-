@@ -1,0 +1,4 @@
+dddd, Score: 1
+asdsa, Score: 1
+ddd1, Score: 1
+123, Score: 0

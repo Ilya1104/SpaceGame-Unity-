@@ -1,0 +1,5 @@
+
+a, Score: 0
+f, Score: 0
+ddd, Score: 1
+sad, Score: 3
